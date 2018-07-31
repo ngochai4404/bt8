@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BroadcastApplication</string>
+    <string name="message_a">message A</string>
+    <string name="message_b">message B</string>
+    <string name="call_a">Call A</string>
+    <string name="call_b">Call B</string>
+</resources>
